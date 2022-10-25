@@ -1,0 +1,81 @@
+
+
+body{
+  background-color:#EEF1FF;
+  margin: 0;
+}
+
+
+h1{
+   font-family: Serify ;
+   text-align: center;
+   }
+h2{
+   font-family: Serify ;
+}
+u{
+  color: #CA4E79 ;
+}
+
+
+
+.inter{
+    font-family: Serify ;
+    text-align: center;
+}
+.me{
+    text-align: center;
+}
+
+.top-container{
+  margin: 0;
+  text-align: center;
+  font-family: Serify ;
+  color: white ;
+  position: relative;
+  padding-top: 70px;
+  background-color: #AAC4FF ;
+}
+
+.top-cloud {
+  max-width: 100%;
+  height: auto;
+  position: absolute;
+  right: 500px;
+  bottom : 300px ;
+}
+
+.bottom-cloud{
+  max-width: 100%;
+  height: auto;
+  position: absolute;
+  left:  200px;
+  top:  100px;
+}
+
+.town{
+  position: relative;
+  left: 30px;
+  }
+
+.skill{
+  font-family: Serify ;
+
+}
+
+.work{
+    text-align: left;
+    /* position: relative;
+    padding-left: 610px; */
+
+}
+
+.contact{
+  margin: 0;
+  text-align: center;
+  font-family: Serify ;
+  color: white ;
+  position: relative;
+  padding-bottom: 40px;
+  background-color: #AAC4FF ;
+}
