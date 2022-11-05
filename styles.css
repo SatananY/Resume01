@@ -1,8 +1,6 @@
-
-
 body{
-  background-color:#EEF1FF;
-  margin: 0;
+  background-color:#FFEEAF;
+  /* margin: 0; */
 }
 
 
@@ -59,12 +57,14 @@ u{
   }
 
 .skill{
+  margin-left: 40% ;
   font-family: Serify ;
 
 }
 
 .work{
     text-align: left;
+    margin-left: 40% ;
     /* position: relative;
     padding-left: 610px; */
 
@@ -78,4 +78,10 @@ u{
   position: relative;
   padding-bottom: 40px;
   background-color: #AAC4FF ;
+}
+
+
+.bg{
+  
+  background-color: #D2DAFF ;
 }
